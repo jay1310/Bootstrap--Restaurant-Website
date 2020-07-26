@@ -18,7 +18,7 @@
    a. About history of the restaurant.
    b. Use of cards and tables.
  
-8. Contact US page contains contact information and a feedback form.
+8. Contact Us page contains contact information and a feedback form.
 
 9. Modals, Cards, Media classes, Breadcrums, Tables and Font awesome icons have been used to make the page more attractive.
 
@@ -36,3 +36,8 @@
 
 ## Screenshots
 
+![homepage](https://user-images.githubusercontent.com/64154442/88485508-dcd04400-cf93-11ea-8bb7-789769ae838a.png)
+
+![about us](https://user-images.githubusercontent.com/64154442/88485510-df329e00-cf93-11ea-9884-8f1173e760c9.png)
+
+![contact us](https://user-images.githubusercontent.com/64154442/88485516-e9549c80-cf93-11ea-8802-ce56384668af.png)
