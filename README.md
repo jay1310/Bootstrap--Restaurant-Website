@@ -30,7 +30,7 @@
 ## Project Setup:
 1. Clone the repository using command ```git clone```
 2. Run the command ```npm install``` to install all the dependencies.
-3. Run the command `` npm start``` to launch the website.
+3. Run the command ``` npm start``` to launch the website.
 4. It can also be manually opened by going to address:
 ``` http://localhost:3000```
 
